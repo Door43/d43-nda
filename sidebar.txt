@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nda:home|Door43 (nda)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nda|d43-nda repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nda/archive/master.zip|d43-nda.zip]]
+
+**Recent Changes**
+{{changes>ns = nda}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nda|Ethnologue data]]
+
